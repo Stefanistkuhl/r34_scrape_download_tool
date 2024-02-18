@@ -31,4 +31,5 @@ Or you can use either of the .ipynb files to genererate grahps with the count of
 But for that you need to install juyter notebook which you can download the vs code extension for or you for whatever editor you use get the required plugin.
 
 Here a example of a graph:
+
 ![graph](example.png)
